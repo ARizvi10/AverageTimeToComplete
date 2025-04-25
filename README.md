@@ -15,6 +15,7 @@ It calculates the average time spent on the task per day.
 When given a total estimated task time, the program can estimate how many more days are needed to complete the task based on the user's past average.
 
 Example Use Case
+
 Imagine you're writing a research paper. You log how long you spend writing each day:
 Day 1: 2 hours
 Day 2: 1.5 hours
