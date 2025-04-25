@@ -2,9 +2,13 @@ Overview
 Task Time Tracker is a simple yet effective program that helps users estimate how long a task will take based on their personal work habits. By tracking the amount of time spent on a task each day, the program calculates the average daily time investment and projects the number of days required to complete similar tasks in the future.
 
 Features
+
 -Input daily time spent on a task
+
 -Tracks how many days have passed
+
 -Calculate average time spent per day
+
 -Estimate how many days a task will take to complete based on this average
 
 How It Works
