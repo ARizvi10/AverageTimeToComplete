@@ -30,3 +30,8 @@ Day 2: 1.5 hours
 Day 3: 2.5 hours
 
 The program calculates your average as 2 hours per day. If you estimate the paper will take 10 hours total, the program predicts it will take you approximately 5 days to finish.
+
+Features to still be implemented:
+
+Currently, the program overwrites the txt file where the data is stored every time it is ran, this is due to my usage of "w" mode of opening files instead of in-place file editing. 
+I still need to update the code to reflect this change, so as of now, I consider this program non-functional.
