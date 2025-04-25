@@ -17,8 +17,11 @@ When given a total estimated task time, the program can estimate how many more d
 Example Use Case
 
 Imagine you're writing a research paper. You log how long you spend writing each day:
+
 Day 1: 2 hours
+
 Day 2: 1.5 hours
+
 Day 3: 2.5 hours
 
 The program calculates your average as 2 hours per day. If you estimate the paper will take 10 hours total, the program predicts it will take you approximately 5 days to finish.
